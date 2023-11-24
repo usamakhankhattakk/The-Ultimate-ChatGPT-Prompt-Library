@@ -1,0 +1,12 @@
+    1.Create a list of 5 types of data that teachers can collect to monitor student learning and progress.
+    2.Create a quiz with 5 multiple choice questions that assess students' understanding of [concept being taught].
+    3.Construct a model essay on social discrimination that surpasses all the requirements for an 'A' grade.
+    4.Design a poster that outlines the regulations of the classroom as well as the penalties for violating them
+    5.Generate a list of specific and actionable steps that a student can take to improve their performance in [subject/task]
+    6.Create a lesson outline for a lesson on [concept being taught] that includes learning objectives, creative activities, and success criteria.
+    7.Create a list of 5 teaching strategies that could be used to engage and challenge students of different ability levels in a lesson on [concept being taught]
+    8.Create a list of interactive classroom activities for [concept being taught]
+    9.Create a marking scheme for evaluating student writing in line with the [concept being taught]
+    10.What difficulties do children have when learning about passive voice?
+    11.I need help developing a lesson plan on renewable energy sources for high school students.
+    12.Come up with a list of 10 unique qualities to include in a teacher’s resume.

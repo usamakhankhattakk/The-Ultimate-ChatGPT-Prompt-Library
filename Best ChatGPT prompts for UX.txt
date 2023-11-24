@@ -1,0 +1,8 @@
+    1.Generate examples of UI design requirements for a [mobile app]
+    2.Generate a typography style guide for a [mobile application] in excel format.
+    3.What are the UI cases that need to be considered when designing a [burger menu]
+    4.Generate a sample report of a competitor’s [digital watch] by using online customer reviews. For the sake of this analysis, we will focus on product usability
+    5.As a designer, what are some gamification techniques I can add to a [language learning app]
+    6.How can I design a [law firm website] in a way that conveys [trust and authority]
+    7.What are some micro-interactions to consider when designing an [education platform]
+    8.Create a text-based excel sheet to input your copy suggestions. Assume you have 3 members in your UX writing team

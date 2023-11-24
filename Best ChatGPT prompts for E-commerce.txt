@@ -1,0 +1,5 @@
+    1.A customer has recently purchased sneakers, can you please give me recommendations for similar or complementary products that the customer may enjoy
+    2.Write a javascript for Google Tag Manager that sends a Facebook Custom Conversion event when a callback button is clicked
+    3.Write a 50-word product description for [trader joes awake blend coffee beans.] [Write in an upbeat, informative tone.]
+    4.Create a chat message for our [company name] explaining our return policy in a sweet and simple way. 14 days for returns, no shipping fees, product needs to be in perfect shape
+    5.Here is a list of product titles: [product titles], Perform the following modifications to each product title: <modifications>

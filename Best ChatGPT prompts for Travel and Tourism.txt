@@ -1,0 +1,8 @@
+    1.How much money do I need as a tourist for X days in [Location]?
+    2.How much money do I need to survive a day in [location]?
+    3.Pick X cities for a Y-day trip in [location]
+    4.Plan a $1500 5-day trip in Paris. Give me the itinerary
+    5.Is it cheaper to go from Stockholm to Sydney or Bali?
+    6.What is the most convenient airline to go from X to Y?
+    7.What are the top-rated restaurants in Amsterdam with a budget of €100 per person?
+    8.I want to plan a three-week backpacking trip through Europe. I have a student’s budget, and I love finding local street food and open markets. Can you suggest an itinerary for me?

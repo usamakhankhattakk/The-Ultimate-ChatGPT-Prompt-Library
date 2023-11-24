@@ -1,0 +1,11 @@
+    1.Analyze the current state of <industry> and its trends, challenges, and opportunities, including relevant data and statistics. Provide a list of key players and a short and long-term industry forecast, and explain any potential impact of current events or future developments.
+    2.Offer a detailed review of a <specific software or tool>  for <describe your business>.
+    3.Offer an in-depth analysis of the current state of small business legislation and regulations and their impact on entrepreneurship.
+    4.Offer a comprehensive guide to small business financing options, including loans, grants, and equity financing.
+    5.Provide a guide on managing finances for a small business, including budgeting, cash flow management, and tax considerations.
+    6.Provide a guide on networking and building partnerships as a small business owner.
+    7.I want to create an agenda for a meeting about<Meeting info> with my team. Can you give me some examples of what should be included?
+    8.I need to write an email to a client regarding a change in the project timeline. Can you give me some guidance on how to phrase it?
+    9.To increase the number of Instagram posts, please develop a product roadmap for Instagram’s story.
+    10.Write an in-depth analysis of the current state of a specific industry and its potential for small business opportunities.
+    11.I need to prepare a presentation for a potential investor on <presentation topic>. Can you give me some guidance on what to include?

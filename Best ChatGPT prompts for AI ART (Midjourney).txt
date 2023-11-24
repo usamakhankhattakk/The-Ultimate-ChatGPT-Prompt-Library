@@ -1,0 +1,12 @@
+    1.A photograph of an angry full-bodied wolf in the foggy woods, by Alex Horley-Orlandelli, by Bastien Lecouffe-Deharme, dusk, sepia, 8k, realistic
+    2.photo of an extremely cute alien fish swimming on an alien habitable underwater planet, coral reefs, dream-like atmosphere, water, plants, peace, serenity, calm ocean, transparent water, reefs, fish, coral, inner peace, awareness, silence, nature, evolution --version 3 --s 42000 --uplight --ar 4:3 --no text, blur
+    3.An illustration of a Viking sitting on a rock, dramatic lighting [ Explain in detail about the picture or ask ChatSonic to write the illustration for you 😉]
+    4.Design a modern logo with a sun for a marketing company
+    5.Please generate a surreal landscape with bright colors and organic shapes. Include a small figure in the foreground, with their back, turned to the viewer.
+    6.Generate a portrait of a person with a dreamy, ethereal quality, using soft pastel colors and flowing lines.
+    7.Create an abstract interpretation of a city skyline at night, using geometric shapes and bold, vibrant colors.
+    8.Come up with fresh ideas for coffee mug designs. A brand-new approach to holding hot liquids
+    9.A stunning close-up illustration of Ana de Armas in a dramatic, dark, and moody style, inspired by the work of Simon Stålenhag, with intricate details and a sense of mystery
+    10.How can I create a compelling concept for a series of illustrations [ Describe your vision]?
+    11.Create an image description that describes a visually stunning setting that takes place in the year 3030.
+    12.How can I create a minimalistic logo that conveys a strong brand image? Give me an example

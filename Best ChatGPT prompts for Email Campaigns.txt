@@ -1,0 +1,10 @@
+    1.Give me 10 subject lines for my [niche] newsletter
+    2.Write the body copy for a promotional email with the subject line: [Your subject line]
+    3.Write a follow-up email with the subject line: [Your subject line]
+    4.How can I re-engage inactive subscribers on my email list?
+    5.How can I use A/B testing to find out the best time to send my emails (and the best frequency)?
+    6.How can I fix email deliverability issues caused by recipients’ firewalls?
+    7.What are the top trends in [industry] that I can include in my next [Details about your newsletter]?
+    8.Translate this email into [Spanish, Chinese, or French, you can ask any other language you want] please. Keep the tone [friendly] and write it like a native." [Add your email body here]
+    9.Please provide tips to improve the deliverability of our weekly [Ecommerce newsletter], making sure it lands in the inbox.
+    10.Take the Newsletter below, polish and improve its structure and tone. Make it more [Friendly, Expert Like, Funny, Catchy, You can add any other tone you like] Don’t exceed [X Words]

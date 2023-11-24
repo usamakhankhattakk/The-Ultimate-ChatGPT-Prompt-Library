@@ -1,0 +1,11 @@
+    1.Start a game of ’20 Questions.’ You can ask me yes or no questions to try and guess the word I’m thinking of. I’ll give you a hint: it’s a type of fruit.
+    2.Let’s play Tic tac Toe.
+    3.Let’s play word ladder.
+    4.Play Hangman with me.
+    5.Let’s Play Mad Libs Game.
+    6.Let’s play trivia.
+    7.Let’s play ‘Would you rather?’. I’ll give you two options and you have to choose which one you would prefer.
+    8.Let’s play ‘two truths and a lie’. Give me three statements about yourself, and I’ll try to guess which one is the lie.
+    9.Let’s play a game of ‘I Spy.’ I’ll give you a clue and you have to guess the object I’m thinking of. The clue is: “It’s something you wear on your feet.
+    10.Let’s play rock paper scissors
+    11.Make a coding challenge about artificial intelligence taking over the world.

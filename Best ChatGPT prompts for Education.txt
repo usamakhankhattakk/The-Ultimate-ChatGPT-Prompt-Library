@@ -1,0 +1,13 @@
+    1.Create a magical system that emphasizes education and is based on [topic of your choice].
+    2.Teach me the <topic of your choice> and give me a quiz at the end, but don’t give me the answers and then tell me if I answered correctly.
+    3.Describe <topic of your choice> in detail.
+    4.Create a YAML template to detect the Magento version for the Nuclei vulnerability scanner.
+    5.Can you provide a summary of a specific historical event?
+    6.Can you give me an example of how to solve a [Problem statement]?
+    7.Write a paper outlining the topic [Topic of your choice] in chronological order.
+    8.I need help understanding how probability works.
+    9.I need help uncovering facts about the early 20th-century labor strikes in London.
+    10.I need help providing an in-depth reading for a client interested in career development based on their birth chart.
+    11.Please provide a definition for the medical term ‘tachycardia’.
+    12.Come up with 10 ways to improve memory and recall while studying for exams.
+    13.Suggest 10 Chrome extensions for students designed to improve productivity while studying.

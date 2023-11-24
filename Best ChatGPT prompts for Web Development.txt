@@ -1,0 +1,13 @@
+    1.Develop an architecture and code for a <website description> website with JavaScript.
+    2.Help me find mistakes in the following code <paste code below>.
+    3.I want to implement a sticky header on my website. Can you provide an example of how to do that using CSS and JavaScript?
+    4.Please continue writing this code for JavaScript <post code below>
+    5.I need to create a REST API endpoint for my web application. Can you provide an example of how to do that using Node.js and Express?
+    6.Find the bug with this code: <post code below>
+    7.I want to implement server-side rendering for my React application. Can you provide an example of how to do that using Next.js?
+    8.Provide a UX design tip I can share on LinkedIn.
+    9.Assume the table names and generate an SQL code to find out Elon Musk’s tweets from 2019.
+    10.What exactly does this regex do? rege(x(es)?|xps?).
+    11.Write a docstring for the following function <paste function below>.
+    12.I’m making a website for a small business [Business description]. I need ideas on how to structure the website using WordPress.
+    13.Generate a list of 10 relevant skills and experiences for a web developer job application.

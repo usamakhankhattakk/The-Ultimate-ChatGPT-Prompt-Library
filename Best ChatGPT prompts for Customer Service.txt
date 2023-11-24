@@ -1,0 +1,5 @@
+    1.Please provide X example phrases that customer service agents can use to display empathy
+    2.Please explain how to send an email from "X" to "Y" with the subject "(the topic of your choice)" and the content "Insert template here" using Python
+    3.Write an email to inform my clients about a looming downtime of my website due to an upgrade
+    4.Please provide a template to explain the standard retail return policy
+    5.Give ideas to make my customer receptive to my company's offers. Provide the answers in bullet points

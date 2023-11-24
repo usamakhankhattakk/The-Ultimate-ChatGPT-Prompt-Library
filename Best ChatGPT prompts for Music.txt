@@ -1,0 +1,11 @@
+    1.Write a lyrical verse in the style of [artist] about [topic]
+    2.Modify the following chord progression to make it more like <according to some directive, like composer or genre>: <Code progression>
+    3.Write the lyrics to a song titled [Title of the song]
+    4.Write a 12-bar blues chord progression in the key of E
+    5.Write chord progressions for a country rock song, with a verse, chorus, and bridge
+    6.Create a poem or song for <target audience> that explains <topic of your choice>. The song should have a distinct character and traits for each participant, as well as punctuation such as.,!?, and so on. Make it last as long as possible.
+    7.How would you encode the melody to “<Song of your choice>” as MusicXML?
+    8.Write a song in the pentatonic scale and 4/4 time to the <artist and song of your choice>
+    9.I want to make a music video, but I’m not sure what concept to use. Can you help me come up with a concept?
+    10.I want to write a midi file. Can you provide python3 code that writes a simple tune using a for loop to add each note?
+    Make a song about a programmer and someone who isn’t a programmer.

@@ -1,0 +1,5 @@
+    1.What are the most important KPIs for [insert industry/field]
+    2.Can you provide me with the mathematical formulas for the most important KPIs for [insert industry/field]
+    3.Can you give the 4 formulas for [metrics] in SQL code?
+    4.Generate an example of a transactions dataset that [company] can create
+    5.Please write a SWOT analysis for EGO power products

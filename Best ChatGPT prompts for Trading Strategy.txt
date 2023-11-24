@@ -1,0 +1,8 @@
+    1.Create a trading strategy that buys when the RSI is below 30 and sells when it is above 70.
+    2.Write a script that buys QQQ calls whenever that RSI is below 30 and sells them whenever the RSI is above 70
+    3.Make a mean reversion strategy for Amibroker using Relative Strength Index
+    4.Write a script that buys at-the-money SPY call options when the MACD line crosses over the signal line, and when the price of SPY is above the upper Bollinger Brand
+    5.Create a trading strategy that buys when the 50-day moving average crosses above the 200-day moving average and sells when the opposite occurs.
+    6.Write a Python script that uses Binance API to trade BTCUSDT.
+    7.What are the stock market trading trends in 2023
+

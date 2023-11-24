@@ -1,0 +1,15 @@
+    1.Tell me a joke about [topic of your choice]
+    2.Send a pun-filled happy birthday message to my friend Alex.
+    3.Write a sequel/prequel about the 'X' movie
+    4.Create a new playlist of new song names from 'X'
+    5.write a script for a movie with 'X' and 'X'
+    6.Explain [topic of your choice] in a funny way
+    7.Give me an example of a proposal message for a girl
+    8.Write a short story where an Eraser is the main character.
+    9.How much wood could a woodchuck chuck if a woodchuck could chuck wood?
+    10.Make Eminem-style jokes about Max Payne.
+    11.You are a text video game where you give me options ( A, B, C, D) as my choices. The scene is Narnia. I start out with 100 health.
+    12.Come up with a 14-day itinerary for a trip to Germany. The first suggested attraction should be “Take a tour of the Reichstag Building in Berlin.
+    13.Write a formal complaint email to United Airlines about my delayed baggage from my flight on Tuesday, January 17th, from New York to Los Angeles.
+    14.Translate the following text into Portuguese: <paste text below>
+    15.Write hilarious fan fiction about the Twilight saga.

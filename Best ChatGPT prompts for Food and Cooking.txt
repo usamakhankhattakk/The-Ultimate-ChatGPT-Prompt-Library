@@ -1,0 +1,11 @@
+    1.Can you help me plan a week's worth of dinner for two adults
+    2.Generate a meal plan for two days and give me the shopping list
+    3.I have tomato, lettuce, and broccoli. What can I prepare with them for a vegan lunch?
+    4.What is an easy way to make a pasta recipe that features white sauce and mushroom?
+    5.What would be a good bottle of wine to serve with Chicken roast dinner?
+    6.I have only three ingredients - Onion, tomato, and spinach. Can you show me 3 meals that i can cook with these ingredients?
+    7.What is a good food suggestion for someone who has had a bad day
+    8.I am a vegan and I am looking for healthy dinner ideas.
+    9.Can you give a dessert suggestion on a stressful day
+    10.Suggest a multi-course dinner party menu with winter ingredients
+    11.Write a persuasive message to a potential employer explaining my relocation for a chef role.
