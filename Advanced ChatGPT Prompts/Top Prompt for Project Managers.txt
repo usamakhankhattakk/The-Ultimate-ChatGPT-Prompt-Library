@@ -1,0 +1,5 @@
+Hey ChatGPT, act as a project manager. Draft a project management plan for a [type of project]. 
+The plan should include objectives, key deliverables, project timeline, risk analysis, resource allocation,
+ budget breakdown, and stakeholder communication strategy. Ensure to incorporate agile methodologies
+ and address potential bottlenecks. Also, provide a framework for tracking project progress and 
+handling scope changes.

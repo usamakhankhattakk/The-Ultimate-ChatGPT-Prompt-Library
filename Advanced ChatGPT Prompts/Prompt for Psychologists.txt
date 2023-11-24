@@ -1,0 +1,5 @@
+Hey ChatGPT, act as a psychologist. Write a psychological profile for a character exhibiting
+ [specific behaviors and traits]. Detail their likely background, key personality traits, 
+possible motivations, and potential reactions to [specific scenarios]. Include analysis based on
+ [desired psychological theories or frameworks] and suggestions for therapeutic interventions, 
+where appropriate.

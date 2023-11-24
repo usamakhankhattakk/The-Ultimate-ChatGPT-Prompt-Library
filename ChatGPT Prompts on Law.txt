@@ -1,0 +1,15 @@
+1. Draft a comprehensive guide on how to prepare for a personal injury lawsuit. Consider the following: [Type of injury (e.g., car accident, slip and fall)], [Location where the injury occurred (e.g., workplace, public space)], and [Specific steps/documents needed (e.g., medical reports, witness statements)]. The audience for this guide is [Specify the target audience, e.g., victims, lawyers, caregivers].
+
+2. Create a list of important factors to consider when choosing an immigration lawyer. These factors might include [Country of destination], [Type of immigration (e.g., work visa, family reunion, asylum)], and [Specific services needed (e.g., application filing, court representation)]. This list is intended for [Specify the target group, e.g., immigrants, refugees, employers sponsoring visas].
+
+3. Generate a set of tips for law students preparing for the bar exam. Consider aspects such as [Areas of law (e.g., civil, criminal, torts)], [Study methods (e.g., group study, flashcards, mock tests)], and [Resources for preparation (e.g., books, online platforms, coaching centers)]. These tips are aimed at [Specify who, e.g., first-time test takers, re-sitters, foreign law graduates].
+
+4. Draft an introductory paragraph for a legal document concerning [specify the legal matter, e.g., ‘property dispute’ or ‘business acquisition’]. Ensure it aligns with the laws of [mention the state or country of jurisdiction] and addresses the main objectives [detail any specific goals or aims the document should achieve].
+
+5. Research and summarize the main points of the case law on [describe the specific legal topic or issue, e.g., ‘intellectual property rights in the tech industry’]. Focus on rulings from [specify a particular court or jurisdiction, e.g., ‘9th Circuit Court of Appeals’] and any notable dissenting opinions [highlight any specific aspects or arguments you’re particularly interested in].
+
+6. Provide an overview of the key legal principles associated with [mention a specific law or regulation, e.g., ‘the General Data Protection Regulation (GDPR)’]. Elaborate on its applicability in [specify a context or scenario, e.g., ‘online marketing for e-commerce businesses’], and emphasize any recent changes or interpretations [detail any particular amendments or landmark decisions].
+
+7. Outline potential legal arguments for a case involving [describe the nature of the case, e.g., ’employment discrimination’ or ‘breach of contract’]. Focus on the statutes from [mention the relevant legal code or set of laws, e.g., ‘Title VII of the Civil Rights Act’] and weave in references from leading cases [mention any critical cases or precedents you’d like to base your arguments on].
+
+8. Generate a checklist for client intake on matters related to [specify the area of law, e.g., ‘family law’ or ‘corporate mergers’]. Ensure it includes relevant details about [highlight the critical components, e.g., ‘assets, liabilities, and dependents’ or ‘existing contracts, stakeholders, and pending litigations’].

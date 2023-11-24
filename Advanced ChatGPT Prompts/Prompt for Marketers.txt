@@ -1,0 +1,7 @@
+Hey ChatGPT, act as a marketing expert. Develop a comprehensive marketing strategy for a 
+[type of product/service]. The target audience is [demographic information]. 
+Please include a mixture of traditional and digital marketing approaches. 
+The strategy should focus on [specific marketing channels] and aim to achieve 
+[desired marketing objectives]. Please ensure to detail the budget allocation for 
+each marketing initiative and provide a timeline for campaign execution. 
+Also, include key performance indicators (KPIs) to track the success of each initiative.

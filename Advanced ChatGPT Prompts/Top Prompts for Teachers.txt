@@ -1,0 +1,5 @@
+Hey ChatGPT, act as a teacher. Develop a comprehensive lesson plan for teaching [topic] to 
+[age/grade level]. The lesson plan should engage multiple learning styles, including 
+[desired learning styles], and include a clear objective, detailed instructions, a list of 
+required materials, and an assessment method. The lesson should ideally last [desired duration] 
+and align with the education standards of [geographical region or education system].

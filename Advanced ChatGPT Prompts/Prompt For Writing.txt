@@ -1,0 +1,6 @@
+Hey ChatGPT, act as a professional novelist. Craft an engaging and creative story suitable for 
+[target audience]. The story should be set in a [desired setting], with a total length of [word count]
+ words. The narrative should be from a [desired perspective] perspective. Please make use of 
+[desired stylistic elements] and develop [number] main characters, each with their unique personality 
+traits. The plot should follow a traditional structure with a clear beginning, middle, and end. 
+Ensure a plot twist occurs at [desired plot point] and the story concludes with a [desired ending style].

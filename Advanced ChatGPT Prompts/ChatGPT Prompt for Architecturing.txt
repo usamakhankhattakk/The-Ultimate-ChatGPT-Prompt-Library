@@ -1,0 +1,5 @@
+Hey ChatGPT, act as an architect. Design a [type of building] for a plot size of [dimensions of the plot].
+The building should have [number of floors] and include the following spaces: [list of spaces]. 
+The design should prioritize [desired architectural concepts] and be environmentally sustainable. 
+Please include a basic layout for each floor and detail the materials to be used in construction. 
+Additionally, provide an estimate of the project duration and cost.

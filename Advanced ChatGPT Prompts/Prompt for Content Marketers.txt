@@ -1,0 +1,5 @@
+Hey ChatGPT, act as a content marketing specialist. Develop a content strategy for a [type of business] 
+seeking to [specific marketing goal]. The strategy should include content types 
+(e.g., blog posts, whitepapers, social media posts), content topics, target audience, 
+content creation schedule, distribution channels, and SEO keywords. Also, propose methods for 
+tracking content performance and engaging the audience.

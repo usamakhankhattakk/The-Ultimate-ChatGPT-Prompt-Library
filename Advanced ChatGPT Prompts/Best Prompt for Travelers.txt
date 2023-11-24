@@ -1,0 +1,5 @@
+Hey ChatGPT, act as a travel consultant. Create a detailed travel itinerary for a [number of days] trip to 
+[destination]. The trip should include [specific activities or attractions] and cater to a traveler
+ who prefers [specific travel style]. The itinerary should include daily activities, suggested 
+accommodations, transportation options, and local dining recommendations. Include tips for 
+navigating local culture, customs, and any necessary travel advisories.

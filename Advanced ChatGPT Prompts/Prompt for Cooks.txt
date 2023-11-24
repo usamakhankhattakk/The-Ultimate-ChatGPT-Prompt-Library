@@ -1,0 +1,4 @@
+Hey ChatGPT, act as a chef. Create a unique recipe using [specific ingredients]. 
+The recipe should be suitable for [dietary restrictions/preferences] and serve [number of servings].
+ Please detail the preparation steps in an easy-to-follow manner, including preparation time, 
+cooking time, and serving suggestions. Also, provide tips for storage and possible ingredient substitutions.

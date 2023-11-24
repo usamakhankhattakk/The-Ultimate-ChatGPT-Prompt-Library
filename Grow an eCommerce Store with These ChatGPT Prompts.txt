@@ -1,0 +1,13 @@
+1. Determine which products are in high demand for our store. Consider the products we’ve added in the last [number of months, e.g., “six months”]. Focus on categories like [mention specific product categories, e.g., “electronics, fashion, home decor”] and the age groups they appeal to [specify age groups, e.g., “18-25, 25-35”]. Use this information to recommend top-selling items.
+
+2. Provide strategies to boost customer reviews and feedback. Based on the products we sell most frequently, [list a few top-selling products, e.g., “smartphones, sneakers, kitchen appliances”], how can we encourage more users to leave positive reviews? Consider incentives or campaigns targeting [mention specific customer segments, e.g., “repeat buyers, new customers”].
+
+3. Offer insights on optimizing our website layout for a better shopping experience. Evaluate our current design focused on [list a few elements, e.g., “product images, checkout process, mobile responsiveness”] and provide suggestions that would appeal to our primary audience, which consists of [mention demographics, e.g., “young adults, professionals, parents”].
+
+4. Help us identify potential seasonal sales opportunities for the upcoming year. Based on our primary products like [mention a few product types, e.g., “winter clothing, swimwear, back-to-school supplies”], what seasonal campaigns can we run? Also, consider cultural events and holidays that are relevant to our audience from [mention a specific region or country, e.g., “North America, Europe”].
+
+5. Recommend ways to improve our after-sales service and customer support. Currently, we offer support through [mention current channels, e.g., “email, chat, phone calls”]. What improvements can we make to better assist customers who purchase [mention specific product categories, e.g., “tech gadgets, fashion accessories, kitchenware”]?
+
+6. Assist in creating a loyalty program for our regular shoppers. Looking at our most frequent shoppers who often buy [list a few product categories, e.g., “beauty products, electronic gadgets, home furnishings”], what rewards or incentives would appeal most to them? Think about point systems, discounts, or exclusive events for members.
+
+7. Provide tactics to reduce cart abandonment rates on our website. Delve into the reasons why customers might leave items in their cart without completing the purchase, especially when they’re shopping for [mention high-ticket items or categories, e.g., “luxury watches, designer bags, home entertainment systems”]. Offer solutions to address these reasons and boost conversions.

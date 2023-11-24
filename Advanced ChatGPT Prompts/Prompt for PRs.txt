@@ -1,0 +1,5 @@
+Hey ChatGPT, act as a PR specialist. Draft a press release for [specific company] announcing their 
+[specific news or event]. The press release should include an engaging headline, a concise summary, 
+quotes from key stakeholders, and relevant company information. It should also contain contact 
+information and instructions for further press inquiries. Please adhere to the traditional press 
+release format and make it newsworthy for a wide range of media outlets.

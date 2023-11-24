@@ -1,0 +1,13 @@
+1. Please generate a step-by-step process on preparing [specific dish you’d like ChatGPT to explain]. Ensure it includes ingredient measurements, tools needed, and relevant tips that a novice cook should be aware of. Furthermore, clarify any specific regional variants of this dish if you are aware of them.
+
+2. Help create a list of essential kitchen tools and equipment needed to set up a new kitchen from scratch. Please prioritize based on [type of cuisine the kitchen will mostly be used for] and consider space limitations as our kitchen space is [specific dimensions or space constraints].
+
+3. We’re planning to have a themed dinner party based on [specific cuisine or theme you want to focus on]. Could you suggest a menu consisting of a starter, main course, dessert, and a drink? Please also provide any special instructions for presentation or serving to make the experience more authentic.
+
+4. We’re aiming to introduce a new line of [specific kitchen gadgets or tools]. Can you list down potential uses and benefits, considering the needs of someone who often cooks [specific type of meals or dishes they prepare]?
+
+5. Our team needs recipes that cater to [specific dietary requirements, e.g., vegan, gluten-free, low-carb]. Can you provide a weekly meal plan including breakfast, lunch, dinner, and a snack? Please ensure that the recipes are easy to follow, and highlight any unique ingredients that might be hard to find.
+
+6. For our cooking class next month, we’re focusing on [specific cooking technique or method, e.g., grilling, sous-vide]. Can you generate a detailed guide on mastering this technique, including common mistakes to avoid, and the best dishes to try it with?
+
+7. We have access to a lot of [specific ingredient, e.g., zucchini, chicken, blueberries] right now. Could you suggest clever recipes or ways to combine them into different meals of the day? Also, provide storage or preservation tips if we can’t use them all at once.

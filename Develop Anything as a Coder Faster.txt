@@ -1,0 +1,71 @@
+1.When working with mathematical operations in [Python], it’s common to calculate factorials. Can you help by writing a function in [Python] to calculate the factorial of a given number [Number to Calculate]?
+
+2. Write a function in [Python] to compute the factorial of a specific number [Number to Calculate].
+
+3. Design a [JavaScript or any other language] program that provides a basic calculator functionality. Ensure it has operations like [Add, Subtract, Multiply, Divide or add any other functionality].
+
+4. Please provide a [C++] code to sort an array of integers [Array of Integers] using the bubble sort method.
+
+5. Write a [Python] script that extracts data from a website [Website URL] and saves it to a CSV file. (Note for the user: It’s better to plugins in ChatGPT for such tasks.)
+
+6. Develop a [Java] program to implement a simple chatbot that utilizes natural language processing [Specify NLP Library/Tool].
+
+7. Please furnish a [C#] code that creates a basic game using the Unity engine [Specific Game Genre or Concept].
+
+8. Draft a [Python] function that verifies if a particular string [Input String] is a palindrome.
+
+9. Design a [JavaScript] program to create a responsive webpage layout using CSS and HTML [Specific Page Type or Theme].
+
+10. ChatGPT you are a Coding ChatGPT right now and, I want you to act as [Enter your profile for example python developer] and by using the technology stack [Enter your technology stack] and functionality [Enter functionality] without leaving these mandatory fields [Enter Fields] and optional fields [Enter Fields] perform this [Write a task description].
+
+11. Write a [Python] script to automate specific tasks using the Selenium library [Specific Task or Webpage].
+
+12. Create a [Programming Language] program that implements a basic encryption algorithm [Specific Algorithm or Use-case].
+
+13. Develop a [C# or other language] code to craft a basic windows form application [Specify Application Functionality].
+
+14. Write a [Python] function that produces a random password [Desired Length and Complexity].
+
+15. Develop a [JavaScript] program to perform basic CRUD operations using MongoDB [Specific Collection or Data Type].
+
+16. Generate a [C++ or type any coding language] code to implement a basic data structure, such as a linked list, [Specific Operations or Use-cases].
+
+17. Provide a [Python] script that reads and analyzes data from an excel sheet [Specific Analysis or Data Type].
+
+18. Design a [Java] program that implements a basic algorithm for image processing [Specific Algorithm or Image Type].
+
+19. Develop a [C# or any coding language] code that constructs a basic WPF application [Application Functionality or Theme].
+
+20. Write a [Python] function to implement a basic natural language processing task.
+
+21. Write [JavaScript] program that establishes a basic blockchain [Specific Blockchain Functionality].
+
+22. I have an h264 video too large for Twitter; assist with a bash script to adapt it to the proper format with the highest quality [Output Format].
+
+23.Create a TypeScript function that calculates implied volatility using the Black-Scholes model, explaining each step [Specific Market Data].
+
+24. Please only reply using p5.js code. Please concisely implement a cellular automaton life game with 30 lines or less. – 800,800 by 800 pixels -Sorry, no line breaks. Please refrain from leaving comment-outs [Specific Cell Behavior or Pattern].
+
+25. Identify the bug in this given [Code] and provide suggestions for improvement.
+
+26. This year, the elves invested in a gift-wrapping machine. However, it isn’t programmed! An algorithm that aids it in the [task] must be developed. Many presents are given to the machine. Each present is a string. Each gift must be wrapped by the machine and displayed with other wrapped gifts. To wrap a gift, you must place the wrapping paper around the string, which is represented by the * symbol. For instance: const gifts are [“cat,” “game,” and “socks”]. console.log const wrapped = wrapping(gifts) (wrapped) / [“ncatn,” “ngamen,” and “nsocksn**”] */ As you can see, the thread is wrapped in the wrapping paper. The corners are also wrapped in wrapping paper on the top and bottom to prevent any gaps.
+
+27. What exactly does this strange-looking regex do? [ add your regex code example: ((([01]?\d)|(two[0-three])): ([0-five]?\d)) ((:[0-five]?\d))?\s? ?b/i; (am|pm)]
+
+28. I require UI assistance. I need three action buttons for a card component that includes a long statement, but I don’t want the buttons to always be visible. [specify your requirements for example: I need a good UI that functions on both desktop and mobile since if I try to show the buttons on Hoover, that logic won’t work on mobile.]
+
+29. Can you explain how this [coding language] code [code snippet] performs [task] and why it uses [specific process]?
+
+30. Write a [Python] script to implement a neural network for image classification using TensorFlow.
+
+31. Write a [Python] script that sets up a neural network for classifying images using TensorFlow [Specific Dataset or Image Type].
+
+32. Provide a [Python] script that implements a reinforcement learning algorithm to develop game-playing AI [Specific Game or Scenario].
+
+33. Take this [Java or other language] code and rewrite it into the [C++ or any desired Language], ensuring that functionality remains consistent.
+
+34. Generate a [C++] code to perform a basic simulation of a self-driving car using ROS (Robot Operating System) [Specific Road Conditions or Scenarios].
+
+35. Write a [Python] script to implement a deep learning model for natural language generation.
+
+36. Create a [JavaScript] program to implement a basic chatbot using Dialogflow.

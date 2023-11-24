@@ -1,0 +1,5 @@
+1.Hey ChatGPT, act as a software engineer. Write a Python script that scrapes data from a [website URL]. 
+The website is a [type of website] and I want to gather the [specific data points]. 
+The program should run on a [desired operating system] and be designed to run [frequency of execution].
+ If any errors are encountered, the script should [desired error handling]. 
+The scraped data should be saved in a [desired output format] and stored at [desired storage location].

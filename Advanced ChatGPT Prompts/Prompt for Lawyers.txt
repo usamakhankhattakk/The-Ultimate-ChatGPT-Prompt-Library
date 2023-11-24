@@ -1,0 +1,5 @@
+Hey ChatGPT, act as a legal advisor. Draft a [type of legal document] that covers 
+[topics to be covered in the document]. This document should comply with the legal standards of 
+[geographical jurisdiction] and is intended to serve the needs of [intended users].
+ Ensure the language is clear and accessible, yet legally sound. Include clauses that protect 
+the rights of [party’s name] and limit their liabilities in scenarios involving [potential risk areas].

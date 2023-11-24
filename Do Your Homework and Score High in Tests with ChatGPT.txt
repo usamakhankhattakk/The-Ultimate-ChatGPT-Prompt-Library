@@ -1,0 +1,13 @@
+1. Generate a daily study schedule for the next week. Specify [starting date] to [ending date]. Make sure to include specific times for each subject like [subject name 1], [subject name 2], and [subject name 3]. Also, add any breaks or activities planned like [specific activity or break name].
+
+2. Write a persuasive essay discussing the benefits of experiential learning in the classroom. Use [specific age group or grade] as your target audience. Provide real-world examples from places like [specific school or institution] on how hands-on activities enhance educational outcomes.
+
+3. Generate a list of potential essay topics for [assignment name] relevant to [subject or course name]. Make sure you focus on [specific theme or aspect]. Along with each topic, provide a brief outline of main points like [point 1], [point 2], and [point 3] to be discussed.
+
+4. Teach me [Anything you want to study]. Ensure you provide its historical context and [specific application or use]. Include a test at the end with questions like [sample question 1], [sample question 2]. Don’t give me the answers. After I respond, tell me if I got the answer right. I really want to learn. Make sure you explain everything like I don’t know anything about the topic and cover from the basics to advance levels.
+
+5. For your introductory physics class in college, write a poem that resonates with themes like [specific physics topic or concept]. Use the style of Robert Frost [add any style] and make sure it touches upon [specific element or emotion].
+
+6. Write a detailed essay for me on [specific topic like ‘gravity’ or ‘photosynthesis’]. Dive deep by adding information from sources like [specific book or researcher]. Write the essay using simple English. Imagine you’re explaining the topic to a 5-year-old or someone who has never heard about it.
+
+7. Solve this [specific math problem or equation] for me. Ensure you go step-by-step. While explaining, touch upon concepts like [specific math concept or rule] and tell me how you used them. I want a clear understanding of each part of the solution.

@@ -1,0 +1,5 @@
+Hey ChatGPT, act as an HR manager. Draft a detailed job description for the role of [specific job title] 
+in a [type of industry] company. The job description should include job duties, required qualifications 
+and skills, and any specific software knowledge or certifications needed. It should also detail 
+the reporting structure, performance expectations, and company culture. Please include an equal 
+opportunity statement and instructions for how to apply.

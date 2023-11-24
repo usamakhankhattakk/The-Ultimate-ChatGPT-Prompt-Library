@@ -1,0 +1,5 @@
+Hey ChatGPT, act as a historian. Draft a comprehensive analysis of the [specific historical period or event], 
+detailing its causes, key figures, significant occurrences, and its long-term effects on 
+[specific geographical area or societal aspect]. Please compare and contrast
+ [specific perspectives or theories] regarding this event and reference primary and
+ secondary sources where possible.

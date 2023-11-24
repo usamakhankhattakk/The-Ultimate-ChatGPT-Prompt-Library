@@ -1,0 +1,6 @@
+Hey ChatGPT, act as a graphic designer. Sketch a design concept for a [type of graphic] 
+that will be used for [purpose of the graphic]. The design should follow a [desired design style]
+ and incorporate [color scheme]. Ensure the design communicates the core values of [entity’s name] 
+and appeals to their target audience, which is [demographic information]. 
+Please provide a rough layout, detailing the placement of each design element, 
+and a list of fonts and imagery to be used.

@@ -1,0 +1,6 @@
+Hey ChatGPT, act as a journalist. Write a detailed news article on the topic of [specific topic] 
+that occurred in [specific location] on [specific date]. The article should follow the inverted
+ pyramid structure, starting with the most crucial details and following with supporting information 
+and background context. Please include direct quotes from [specific individuals or roles] and 
+adhere to AP style guidelines. The article should be approximately [desired word count] words long 
+and suitable for publication in [type of publication].
