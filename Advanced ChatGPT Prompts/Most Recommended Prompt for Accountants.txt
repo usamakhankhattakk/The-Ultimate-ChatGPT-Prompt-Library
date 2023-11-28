@@ -1,4 +1,0 @@
-Hey ChatGPT, act as an accountant. Prepare a detailed financial forecast for a [type of business] in its 
-[business stage]. The forecast should cover the next [time period], taking into account current financial 
-status, projected revenue growth, estimated operating expenses, and any potential financial risks. 
-Please also include a break-even analysis and suggestions for cost-saving measures.
