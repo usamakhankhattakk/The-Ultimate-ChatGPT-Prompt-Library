@@ -1,0 +1,69 @@
+Client Onboarding Questionnaire
+
+Prompt:
+
+“Suggest a list of questions to ask new clients during client onboarding.”
+
+Financial Cents has a more personalized accounting client onboarding questionnaire. Click here to access it.
+
+Research Your New Payroll Client’s Requirement
+
+Prompt:
+
+“What should I do to understand the requirements of my new payroll client?”
+
+Create A Client Onboarding Workflow Checklist
+
+Prompt:
+
+“Suggest a list of questions to ask a new client with [number of employees] and [annual revenue] during client onboarding for me.”
+
+Check out this Financial Cents’ client onboarding checklist.
+
+Conduct Better Client Kick-off Calls
+
+Prompt:
+
+“Give me ideas to conduct a kick-off call with a new accounting client with [number of employees] and [annual revenue]?”
+
+Here’s a client meeting agenda that you can use on the go.
+
+Setting Client Expectations
+
+Prompt:
+
+“Give me ideas to set expectations for my new accounting client with [number of employees] and [annual revenue].”
+
+Discussing Client Requirements
+
+Prompt:
+
+“How do I best discuss accounting requirements with my new clients?”
+
+Client Engagement Letter
+
+Prompt:
+
+“What should I include in my accounting client engagement letter for a client with [specific but non-personal identifiable details]?”
+
+You can check our free bookkeeping engagement letter template.
+
+Collect Documents from Clients
+
+Prompt:
+
+“What documents should I collect from my new accounting client with [specific details]?”
+
+Company Formation for New Clients
+
+Prompt:
+
+“What steps should I take to help my new clients form new companies?”
+
+Here’s a new company formation checklist template.
+
+Meeting New Company Formation Requirements
+
+Prompt:
+
+“What are the compliance requirements for new company formation for my accounting client based in [state]?”

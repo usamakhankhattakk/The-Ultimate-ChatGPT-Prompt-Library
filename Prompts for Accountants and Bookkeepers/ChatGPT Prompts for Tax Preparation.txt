@@ -1,0 +1,59 @@
+Calculate Above-line deductions
+
+Prompt:
+
+“How can I subtract above-line deductions from my client’s tax data?”
+
+Calculate Standard Deductions
+
+Prompt:
+
+“Determine my client’s standard deduction or itemized deductions”
+
+Determine tax liability
+
+Prompt:
+
+“How can I determine my client’s tax liability?”
+
+Step-up in basis
+
+Prompt:
+
+“When should I use a step-up basis for my client?”
+
+Calculating Adjusted Gross Income
+
+Prompt:
+
+“As a Tax professional, help me to calculate my client’s adjusted gross income”
+
+Updating tax filing for the digital age
+
+Prompt:
+
+“How do we update taxes for the digital age?”
+
+Tax Research
+
+Prompt:
+
+“What tax updates should filers in the US take note of this year?”
+
+Documents Required for Individual Tax Returns
+
+Prompt:
+
+“What documents do I need to file an individual tax return in the United States?”
+
+Filing jointly as a couple
+
+Prompt:
+
+“What advantages does my client get from filing jointly as a couple with [unique circumstance]?”
+
+Handling Refunds
+
+Prompt:
+
+“How should I advise my client to handle their US tax refunds?”

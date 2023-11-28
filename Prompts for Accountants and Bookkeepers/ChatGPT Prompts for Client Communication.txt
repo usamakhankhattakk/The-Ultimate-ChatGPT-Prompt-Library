@@ -1,0 +1,137 @@
+Price Increase Letter
+
+Prompt:
+
+“Compose a price increase letter for my accounting clients [specify previous rates, new rates, and your reason for the increase].”
+
+
+
+Client Task Email
+
+Prompt:
+
+“Draft an email requesting additional information [e.g. about financial statements] from an accounting client.”
+
+Setting up client tasks should be short and straightforward so you don’t overwhelm your clients. See how it works in Financial Cents
+
+Welcome Email Template
+
+Prompt:
+
+“Help me draft a welcome email template for [client with specific but non-personal identifiable details]”
+
+Financial Cents accounting welcome email template is designed to help get your client relationships to a positive start.
+
+Client Reminder Email
+
+Prompt:
+
+“Write an email to my clients to remind them about sending their invoices by (1st September 2023).”
+
+Communicating Completion of Tax Returns
+
+Prompt:
+
+“Write an email informing my client  [include specific but non-personal identifiable details] that their taxes have been completed and remind them how much time they have left to perform (action).”
+
+Sending Payment Reminder Emails
+
+Prompt:
+
+“Compose an email to remind (client name) of (client business) of their unpaid fees.”
+
+Quarterly Review Summary
+
+Prompt:
+
+“Give me ideas to write an email summarizing my client’s quarterly income, and expenses, and discussing opportunities for growth based on [specific but non-personal identifiable details]”
+
+
+Update on a New Tax Regulation
+
+Prompt:
+
+“A new tax regulation has just been passed and I need to update my clients on what it means for their business. How can I go about it?”
+
+Cash Flow Management Advice
+
+Prompt:
+
+“I have reviewed my client’s email and noticed (add observation) in their cash flow management system. Write an email communicating how they can leverage (strategy) to improve their cash flow.”
+
+Template for Conducting Online Meetings with Clients
+
+Prompt:
+
+“How can I best conduct virtual meetings with my accounting clients?”
+5. ChatGPT Prompts for Accounting Workflow
+
+Financial Cents has an integration with ChatGPT so that you can create your workflow checklists where the work is being done. Check it out here.
+
+Payroll Workflow Template
+
+Prompt:
+
+“Create a monthly payroll checklist template for a client with [specific but non-personal identifiable details].”
+
+
+Year-End Review
+
+Prompt:
+
+“Create a year-end review template for a client with [specific but non-personal identifiable details].”
+
+
+Month-end Close
+
+Prompt:
+
+“Create a checklist for the month-end close process for a client with [specific but non-personal identifiable details].”
+
+
+Weekly Bookkeeping Workflow Checklist
+
+Prompt:
+
+“Create a weekly bookkeeping workflow checklist for a client with [specific but non-personal identifiable details].”
+
+
+1040 Individual Tax Return
+
+Prompt:
+
+“Create a workflow checklist for 1040 individual tax returns for a client with [specific but non-personal identifiable details].”
+
+
+Business Tax Return Workflow
+
+Prompt:
+
+“Create a tax return for a married couple filing jointly who own rental properties and have a business.”
+
+Annual Sales Tax
+
+Prompt
+
+“Create a workflow checklist for 1040 individual tax return for a client with [specific but non-personal identifiable details].”
+
+
+Quarterly Financial Report
+
+Prompt:
+
+“Create a quarterly financial report checklist for a client with [specific but non-personal identifiable details].”
+
+
+Cash Flow Cycle
+
+Prompt:
+
+“Create a free cash flow cycle checklist.”
+
+
+Monthly Bookkeeping
+
+Prompt:
+
+“Create a monthly bookkeeping checklist.”

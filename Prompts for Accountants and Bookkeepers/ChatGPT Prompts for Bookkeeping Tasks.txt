@@ -1,0 +1,61 @@
+Revise Annual Income Forecast
+
+Prompt:
+
+“Revise my annual income forecast based on the following (current annual income forecast), (actual performance data), (Reasons for revision), (relevant business updates), (historical data).”
+
+Reviewing Estimated Tax
+
+Prompt:
+
+“I have provided (Income details), (Expense details), (Tax deductions and credits), (Previous tax filings), (Tax obligations and jurisdiction) below. Analyze them and tell me if the business owes state or federal estimated tax payments.”
+
+Reviewing Past Due Accounts
+
+Prompt:
+
+“Analyze the following (list of past due accounts), (age of the past due accounts), (terms and conditions), and (communication history) to help me know whether to issue more reminders.”
+
+Reviewing Financial Reports for Tax Returns
+
+Prompt:
+
+“Here are (financial statements), (tax documents), (tax returns for previous years) and (expenses & deductions) and (revenue and income sources). Help me review tax returns.”
+
+Reviewing Quarterly Sales Tax
+
+Prompt:
+
+“With the following sales records, (sales tax rates), (exemptions or exceptions), and (sales tax collections), review my sales tax with this (reporting requirement)”
+
+Balancing and Reconciling Business Accounts
+
+Prompt:
+
+“Use these (account information), (account statements), (internal records), (transaction details) to reconcile my business accounts with (reconciliation process).”
+
+Reviewing Projected Cash Flow
+
+Prompt:
+
+“Review this company’s cash flow by analyzing (sales and revenue forecasts), (expense forecasts), (timing of cash flows), (A/R and A/P), (cash reserves or loans).”
+
+Making Adjusting Entries
+
+Prompt:
+
+“Analyze my (trial balance), and ( supporting documents) to (specific adjustments needed) for (the month, quarter, or year).”
+
+Reviewing Account Receivable
+
+Prompt:
+
+“Here are my current account receivable details: (accounts receivable details) including their payment history, communication history, allowance for doubtful accounts, and credit terms. Please review the outstanding invoices.”
+
+
+
+Reviewing Accounts Payable
+
+Prompt:
+
+“Here are my current accounts payable details: (accounts receivable details) including payment history, communication history, allowance for doubtful accounts, and credit terms. Please review the outstanding invoices for me.”

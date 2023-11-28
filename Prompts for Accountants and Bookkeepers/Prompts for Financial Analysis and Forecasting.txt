@@ -1,0 +1,64 @@
+Trend Analysis:
+
+Prompt:
+
+“Analyze and compare the revenue, expenses, and profitability of the following financial statements to measure the company’s financial health”
+Cash Flow Analysis
+
+Prompt:
+
+“With these (Add financials), analyze the operating activities and investing activities of my business to point out any impending cash flow issues”
+
+Budgeting and Forecasting
+
+Prompt
+
+“Here are my projected financial statements, create financial budgets and forecasts for my business”
+
+Financial Statements Review
+
+Prompt:
+
+“Review my financial statement to show how each line item contributes to my company’s financial health. Here are my (balance sheet), (income statement), and (cash flow statement).”
+
+Keeping up with relevant news and reports
+
+Prompt:
+
+“What is the latest news or report on (relevant topic)?”
+
+Extracting insights from financial data
+
+Prompt:
+
+“Process this (financial data) and summarize the key insights for me.”
+
+Generate Insights from Data Sets
+
+Prompt:
+
+“Provide economic commentary from the following data:
+
+Year: 2020. Inflation Rate: 4%, Unemployment Rate 3, GDP Growth: 5%
+
+Year: 2021. Inflation Rate: 3%, Unemployment Rate 4, GDP Growth: 4%
+
+Year: 2022. Inflation Rate: 4%, Unemployment Rate 2, GDP Growth: 5%”
+
+Understand Your Client’s Area of Improvement
+
+Prompt:
+
+“Based on this [Income Statement], what are the areas of improvement for this company”
+
+Improving Your Client’s Financial Position
+
+Prompt:
+
+“Based on this balance sheet, how can this company’s financial position be improved?”
+
+Sales projection
+
+Prompt:
+
+“What are the sales projections for this business in the next six months based on this (previous sales data)?”
