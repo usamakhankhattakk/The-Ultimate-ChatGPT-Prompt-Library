@@ -1,0 +1,197 @@
+## Audience Research
+
+**Ad Angles**
+
+Analyze the whole website and customer reviews and give me different ad angles to sell this product in
+ a facebook ad in the order that you think would be most relevant to customers: [URLs]
+
+**Generating Benefits**
+
+Give me some benefits of people who do use [PRODUCT] in priority order: [URL]
+
+**Generating Paint Points**
+
+Give me some pain points of people who don't use [PRODUCT] in priority order: [URL]
+
+Audience Research in Perplexity
+"What are the negative effects of X?"
+"Give me the pain points/key benefits of X"
+"Compare X and Y"
+"What are the latest trends in X"
+
+**Filling out the OneSheet**
+
+Using the reviews below, give me details on each of the following for my product: [URL]
+
+Benefits, prior pain points, features, prior objections, failed solutions, and other. Add supporting reviews 
+under each bullet point. List points under each section in priority order according to the reviews.
+
+
+
+**Generating Personas without reviews**
+
+Here’s some information about my product: [URL]. Please generate audience personas based on this information 
+including detailed demographics, psychographics and awareness levels of each.
+
+
+**Generating Personas with reviews**
+
+Here are reviews for my brand [BRAND]. Please generate audience personas based on this information including detailed
+ demographics, psychographics and awareness levels of each.
+
+Analysing Customer Reviews in ChatGPT
+
+What are some interesting patterns of the reviews that humans could miss?
+
+We are launching a new campaign targeting [insert target demo and some info on the campaign]. Based on all the reviews,
+ what should we make sure to mention and avoid?
+
+Find any really good "one-liners" from the reviews. A good one-liner is concise, clear,
+ emotionally moving, and just well-written.
+
+Can you find common words used in the reviews that could be helpful for our creative strategists?
+
+
+Identify common behavioural triggers that lead to purchasing
+
+
+Here is a competitor website [insert URL to competitor]. Based on our reviews, how 
+should we position ourselves to be different?
+
+How has the sentiment of the reviews changed over time? Any patterns based on 
+seasonality of when people buy?
+
+Here is our website [insert website]. Based on the reviews, do you see any untapped
+ products/colors/flavors/etc. that we should explore?
+
+
+**Shocking Statistics**
+
+Give me some shocking statistics related to pain points and benefits of my product, but not related to my product.
+
+
+**Objection Handling**
+
+List common objections potential customers have before buying [PRODUCT] and provide counterarguments: [URL]
+
+
+
+**Failed Solutions Identification**
+
+Identify solutions people tried before switching to [PRODUCT] and why they failed: [URL]
+
+
+**Brand Perception**
+
+"What are the common perceptions and misconceptions about [PRODUCT] among potential customers: [URL]"
+
+
+
+
+## Social Listening
+
+**Analyze Reddit/Quora Forums**
+
+Analyze this [PLATFORM] post and identify key words and phrases people use when talking about
+ [PRODUCT]. Use real customer language from the post. Identify key language regarding any of the following:
+ Benefits, prior pain points, features, prior objections or previous failed solutions.
+
+This is the full content of the Reddit post:
+
+[PASTE CONTENT]
+
+**Analyze Articles**
+
+Analyze this article and extract key information about [PRODUCT]. Using exact terminology from 
+the article, look for things like benefits, prior pain points, features, prior objections, previous failed solutions, sentiment, statistics and any other relevant information for audience research.
+
+[URL]
+
+## Competitor Research
+
+**Fill Out the Competitor Research Table**
+
+Look at the following competitors' reviews: [URL]
+
+Analyze the similarities and differences in messaging between theirs and our products.
+
+
+
+**Competitor Gap Analysis**
+
+Analyze these competitors websites and reviews and identify gaps or opportunities where [PRODUCT] has a 
+competitive advantage or customers are dissatisfied with the competition: [URL]
+
+**Differentiation Strategy**
+
+Based on the competitor reviews, suggest strategies to differentiate [PRODUCT] in the market: [URL]
+
+**Competitor Strengths and Weaknesses**
+
+Evaluate the strengths and weaknesses of competitors in the market of [PRODUCT]: [URL]
+
+**Sentiment Analysis Over Time**
+
+Conduct a sentiment analysis of [PRODUCT] reviews over the past year to identify trends: [URL]
+
+**Feature Requests and Feedback**
+
+Analyze customer reviews to identify common feature requests and feedback for improving [PRODUCT]: [URL]
+
+**Competitor Comparison by Feature**
+
+Compare the features of [PRODUCT] with competitors and highlight unique selling points: [URL]
+
+
+
+## Creative Brainstorm
+
+**Generating testimonial-style static headlines from customer reviews**
+
+"Look through these reviews and find the ones most suitable for a Facebook ad headline. It 
+should not be long, but it should use the customers' language to convey the value propositions of 
+the product. For example, [EXAMPLE]"
+
+**Generating ‘one-liners’ for headlines, hooks and mashup content from customer reviews**
+
+"Look through these reviews and give me some 'one-liners' with the key value props and use cases. Use real customer language from the reviews."
+
+**Generating ideas for Midjourney ads**
+
+Here’s some information about my brand: [URL]
+
+Analyze the website above and give me a list of the key benefits and pain points of our customers. 
+For each benefit/pain point, come up with several visual ideas for images we can generate in Midjourney to 
+showcase the benefit/pain point. Preferably, prioritize scroll stopping visual ideas as this is for a Facebook 
+image ad for the brand (text overlay will be added in post-production). Feel free to also add on any ideas for Midjourney
+ images about the brand in general based on your research. All ideas should take into 
+account the fact that we will not be able to use the product in the image.
+
+**Generating ideas for Midjourney ads (Similes/Metaphors from customer reviews)**
+
+Look through these reviews for my brand and put together a list of all reviews that use similes or metaphors.
+ We are looking to create a Midjourney image with exaggerated 
+similes/metaphors to create Facebook ads for the brand.
+
+**Generating ideas for Midjourney ads (if you don’t have any simile/metaphor reviews)**
+
+Based on your research and understanding of the audience, make up customer reviews about [BRAND] with similes 
+or metaphors that could be turned into scroll stopping Midjourney images for a Facebook ad.
+
+**Problem-Solution Scenarios**
+
+Generate problem-solution scenarios for Facebook ads based on common pain points found in reviews of [PRODUCT]: [URL]
+
+**Pain Point Visualizations**
+
+Develop visual concepts for ads that clearly depict the pain points solved by [PRODUCT]: [URL]
+
+**Humor and Relatability**
+
+Generate humorous and relatable ad ideas for [PRODUCT] that will resonate with the target audience: [URL]
+
+**Emotional Hooks**
+
+Create emotional hooks for Facebook ads using customer testimonials and reviews of [PRODUCT]: [URL]
+
+
